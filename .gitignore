@@ -4,3 +4,9 @@ __pycache__/
 data/
 .idea/
 subsample_val.py
+*.egg-info/
+wandb/
+
+# files
+*.png
+data
